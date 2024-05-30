@@ -1,0 +1,10 @@
+**/__pycache__
+logs/
+checkpoint/
+*.jpg
+*.jpeg
+good_data_clear/
+selected_dataset/
+*.txt
+.vscode/
+*.ipynb
